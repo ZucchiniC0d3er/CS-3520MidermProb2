@@ -1,0 +1,9 @@
+/*styling for our word class*/
+.word{
+	border: 2px dotted red;
+	color: red;
+	background-color: #FFB6C1;
+	margin-left: 10px;
+	padding: 5px;
+
+}
